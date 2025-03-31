@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on digital forensics investigations, penetration testing projects, and securing cloud environments. 
 - 🌱 I’m currently learning incident response strategies, advanced SIEM techniques, and governance, risk, and compliance (GRC).
 - 👯 I’m looking to collaborate on cybersecurity research, hands-on security projects, and industry networking opportunities.
-- 🤔 I’m looking for help with optimizing my job search for cybersecurity consulting roles and sharpening my expertise in DLP and risk management.
-- 💬 Ask me about penetration testing, cloud security, SIEM tools, and breaking into cybersecurity careers!
+- 🤔 I’m looking for help with expanding my network in the cybersecurity industry and exploring innovative ways to integrate automation into security operations.
+- 💬 Ask me about digital forensics and incident response, cloud security, and data loss prevention!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love hosting tech events, playing chess, and planning spontaneous road trips! 🚗💻♟️
 
